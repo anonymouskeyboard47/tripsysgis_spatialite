@@ -1,6 +1,7 @@
 <H3>tripsysgis_spatialite</H3>
-Spatialite database similar to the <EM>tripsysgis</EM> database in the PostgreSQL database <A href="https://github.com/anonymouskeyboard47/postgresql_database">in this repository</A>. tripsysgis.sqlite
-
+<P>
+This is a Spatialite database (tripsysgis.sqlite) that is completely similar to the <EM>tripsysgis</EM> database in the PostgreSQL database found within <A href="https://github.com/anonymouskeyboard47/postgresql_database">this repository</A>. 
+</P>
 <P>
 The Ubuntu command below was used to derive the Spatialite table-sets from the running PostgreSQL database on my server. The entire database is over 1GB in size, therefore I will try and extract each individual table to make the subsets useful for lighter work.
 </P>

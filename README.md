@@ -14,13 +14,14 @@ nohup ogr2ogr --config PG_LIST_ALL_TABLES YES --config PG_SKIP_VIEWS YES -f "SQL
 </PRE>
 </P>
 
-
+<P>
 <H4>How to view the database</H4>
 <P>
 There are several ways of rendering the geographical/spatial content in a Spatialite database. A Spatialite database is inherently a SQLite database, and therefore
 </P>
 <P>
 QGIS (tm), TileMill (tm), AutoCadMap (tm) 2013, FME (tm), ESRI ArcGIS(tm) are some of the desktop applications that you can use to render the maps in the Spatialite database. For a complete list of software applications available for working woth Spatialite please read through the <EM>Reference</EM> section below.
+</P>
 </P>
 
 <H4>References</H4>
